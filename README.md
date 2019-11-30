@@ -17,8 +17,16 @@ Fault tolerance - system can remain operational even if some of the components o
 
 High availability - ensures that your systems are always functioning and accessible
 
-### AWS Interfaces
+#### AWS Interfaces
 
  - Console (Graphical interface)
  - CLI
  - SDK
+ 
+#### EC2 (Elastic Compute Cloud)
+
+ - pay as you go (pay just while you’re using)
+ - broad selection of HW/SW
+ - global hosting
+
+AMI - Amazon Machine Images
