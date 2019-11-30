@@ -37,3 +37,12 @@ storage service designed for use with EC2
  - HDD and SSD: volumes types available 
  - Snapshots: provides the ability to save snapshots of your volumes to Amazon S3
  - Elasticity: adapt your volumes as the needs of your applications
+ 
+#### S3 (Simple Storage Service)
+ 
+ - managed cloud storage service (isn’t associated with any particular server, you don’t have to manage any infrastructure yourself)
+ - store virtually unlimited number of objects
+ - access anytime, from anywhere (https://{bucket-name}/{region-specific endpoint}/{key})
+ - rich security controls
+ 
+ Bucket - key and object
