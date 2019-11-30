@@ -30,3 +30,10 @@ High availability - ensures that your systems are always functioning and accessi
  - global hosting
 
 AMI - Amazon Machine Images
+
+#### EBS (Elastic Block Store) 
+storage service designed for use with EC2
+
+ - HDD and SSD: volumes types available 
+ - Snapshots: provides the ability to save snapshots of your volumes to Amazon S3
+ - Elasticity: adapt your volumes as the needs of your applications
