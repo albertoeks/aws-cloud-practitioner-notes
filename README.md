@@ -73,3 +73,9 @@ storage service designed for use with EC2
  
   - act as built-in firewalls 
   - control accessibility to instances through rules
+  
+#### Application Load Balancer
+
+Application Load Balancer
+
+Classic load balance with some improvements (e.g. supported protocols, cloudWatch metrics, access logs, health check)
