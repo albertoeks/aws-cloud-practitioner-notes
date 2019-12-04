@@ -91,3 +91,25 @@ Auto scaling components
  - auto scaling policy (when?)
      
 Define an alarm for auto scaling through CloudWatch (eg. Whenever CPU utilization is >= 80%, auto scaling take this action…add 2 instances)
+
+#### Route 53
+
+DNS Service - service designed to provide an way to route end users to endpoints (translate name to IP address
+
+DNS resolution strategies
+
+ - simple routing
+ - geo-location
+ - failover
+ - weighted round robin
+ - latency-based
+ - multi-value answer
+
+DNS translator
+
+ - global, highly available DNS
+ - domain registration
+ - public and private dns names
+ - multiple routing algorithms
+ - both ipv4 and ipv6
+ - integrated with other AWS cloud services
