@@ -76,6 +76,18 @@ storage service designed for use with EC2
   
 #### Application Load Balancer
 
-Application Load Balancer
-
 Classic load balance with some improvements (e.g. supported protocols, cloudWatch metrics, access logs, health check)
+
+The load balancer distributes incoming application traffic across multiple targets
+
+#### Auto scaling 
+
+Helps you ensure that you have the correct number of EC2 instances available to handle the load for your application
+
+Auto scaling components
+     
+ - launch configuration (what?)
+ - auto scaling group (where?)
+ - auto scaling policy (when?)
+     
+Define an alarm for auto scaling through CloudWatch (eg. Whenever CPU utilization is >= 80%, auto scaling take this action…add 2 instances)
