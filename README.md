@@ -113,3 +113,24 @@ DNS translator
  - multiple routing algorithms
  - both ipv4 and ipv6
  - integrated with other AWS cloud services
+ 
+#### RDS (Amazon Relational Database Services)
+
+Is a managed service that sets up and operates a relational database in the cloud
+
+Benefits:
+
+ - highly scalable
+ - high performance
+ - easy to administer
+ - available and durable
+ - secure and compliant
+
+DB Engines:
+
+ - Amazon Aurora
+ - MySQL
+ - MS SQLserver 
+ - Oracle
+ - PostgreSQL
+ - MariaDB
