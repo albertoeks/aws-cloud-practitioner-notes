@@ -134,3 +134,12 @@ DB Engines:
  - Oracle
  - PostgreSQL
  - MariaDB
+ 
+#### AWS Lambda
+ 
+Is a compute service that lets you run code in response to events without provisioning or managing servers
+ 
+  - fully-managed serverless compute
+  - event-driven execution
+  - sub-second metering
+  - multiple language supported
