@@ -143,3 +143,11 @@ Is a compute service that lets you run code in response to events without provis
   - event-driven execution
   - sub-second metering
   - multiple language supported
+  
+#### AWS Elastic Beanstalk
+  
+Is an easy-to-use service for deploying and scaling web applications and services
+  
+  - platform as a service
+  - allows quick deployment of your applications
+  - reduces management complexity
