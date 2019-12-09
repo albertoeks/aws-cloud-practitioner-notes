@@ -159,4 +159,15 @@ Is a notification service
  - flexible, fully managed pub/sub messaging and mobile communications service
  - coordinates the delivery of messages to subscribing endpoints and clients
  - easy to setup, operate and send reliable communications
- - decouple and scale microservices, distributed systems and serverless applications  
+ - decouple and scale microservices, distributed systems and serverless applications
+ 
+#### Amazon CloudWatch
+
+Monitors your Amazon Web Services (AWS) resources and the applications you run on AWS in real time
+
+ - collect and track metrics
+ - collect and monitor log files
+ - set alarms
+ - automatically react to changes
+ 
+   
