@@ -151,3 +151,12 @@ Is an easy-to-use service for deploying and scaling web applications and service
   - platform as a service
   - allows quick deployment of your applications
   - reduces management complexity
+  
+#### SNS (Amazon Simple Notification Service)
+
+Is a notification service
+
+ - flexible, fully managed pub/sub messaging and mobile communications service
+ - coordinates the delivery of messages to subscribing endpoints and clients
+ - easy to setup, operate and send reliable communications
+ - decouple and scale microservices, distributed systems and serverless applications  
