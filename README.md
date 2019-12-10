@@ -181,5 +181,10 @@ Is a content delivery network (CDN) allowing your users to interact with your ap
  - cost effective
  - easy to use
  
+#### Amazon CloudFormation
+
+Provides a common language for you to model and provision AWS and third party application resources in your cloud environment
+
+Infrastructure as a code - control your infrastructure through software code 
  
    
