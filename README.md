@@ -169,5 +169,17 @@ Monitors your Amazon Web Services (AWS) resources and the applications you run o
  - collect and monitor log files
  - set alarms
  - automatically react to changes
+
+#### Amazon CloudFront
+
+Is a content delivery network (CDN) allowing your users to interact with your application in a lower latency
+
+ - global, growing network
+ - secure content at the edge
+ - deep integration with key AWS services
+ - high performance
+ - cost effective
+ - easy to use
+ 
  
    
