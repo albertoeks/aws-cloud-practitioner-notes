@@ -185,6 +185,63 @@ Is a content delivery network (CDN) allowing your users to interact with your ap
 
 Provides a common language for you to model and provision AWS and third party application resources in your cloud environment
 
-Infrastructure as a code - control your infrastructure through software code 
+Infrastructure as a code - control your infrastructure through software code
+
+#### AWS Architecture
+
+5 pillars
+
+1. security
+   - identify and access management (IAM)
+   - detective controls
+   - infrastructure protection
+   - data protection
+   - incident response
+    
+2. reliability
+   - recover from issues/failures
+   - apply best practices in: foundations, change management and failure management
+   - anticipate, respond, and prevent failures
+   
+3. performance efficiency
+   - select customizable solutions
+   - review to continually innovate
+   - monitor AWS services
+   - consider the trade-offs 
+
+4. cost optimization
+   - use cost-effective resources
+   - matching supply with demand
+   - increase expenditure awareness
+   - optimize over time
+  
+5. operational excellence
+   - manage and automate changes
+   - respond to events
+   - define the standards
+   
+- fault tolerance
+  - ensures that:
+    - ability of a system to remain operational
+    - built-in redundancy of an application's component
+    
+  - services tools can assist in providing fault tolerance
+    - sqs
+    - s3
+    - rds
+    
+- high availability   
+  - ensures that:
+    - systems are generally functioning and accessible
+    - downtime is minimized
+    - minimal human intervention is required
+    - minimal up-front financial investment
+    
+  - services tools can assist in providing high availability
+    - elastic load balance (ELB))
+    - elastic IP address
+    - route 53
+    - auto scaling
+    - cloudWatch
  
    
