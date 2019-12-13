@@ -238,10 +238,75 @@ Infrastructure as a code - control your infrastructure through software code
     - minimal up-front financial investment
     
   - services tools can assist in providing high availability
-    - elastic load balance (ELB))
+    - elastic load balance (ELB)
     - elastic IP address
     - route 53
     - auto scaling
     - cloudWatch
+    
+#### AWS Security
+    
+ - resilient infrastructure
+ - high security
+ - strong safeguards
  
-   
+ 
+ - continual improvement
+    - rapid innovation
+    - constantly evolving security services
+    
+    
+ - pay for what you need
+    - advanced security services
+    - address real-time emerging risks
+    - meeting needs at a lower operational cost
+    
+    
+ - meet compliance requirements
+    - governance-enabled features
+       - additional oversight
+       - security control
+       - central automation
+
+
+ - AWS shared responsibility model
+    - inherit AWS security controls
+    - layer your controls
+    
+    
+ - network security
+    - built-in firewalls
+    - encryption in transit
+    - private/dedicated connections
+    - distributed denial of service (DDoS) mitigation
+ 
+ 
+ - inventory and configuration management
+    - deployment tools
+    - inventory and configuration tools
+    - template definition and management tools
+    
+    
+ - data encryption
+    - encryption capabilities
+    - key management options
+    - hardware-based cryptographic key storage options
+    
+    
+ - access control and management
+    - identify and access management (IAM)
+    - multi-factor authentication (MFA)
+    - integration and federation with corporate directories
+    - Amazon Cognito
+    - AWS SSO 
+    
+    
+ - monitoring and logging
+    - deep visibility into API calls
+    - log aggregation and options
+    - alert notifications
+    
+    
+ - AWS marketplace
+    - qualified partners to market/sell software to AWS customers
+    - online software store that can run on AWS          
