@@ -309,4 +309,16 @@ Infrastructure as a code - control your infrastructure through software code
     
  - AWS marketplace
     - qualified partners to market/sell software to AWS customers
-    - online software store that can run on AWS          
+    - online software store that can run on AWS
+    
+
+Shared Responsibility Model
+
+ | layer | responsibility | 
+ | --- | --- |
+ | User Data   | you |
+ | Application | you |
+ | Guest OS    | you |
+ | Hypervisor  | aws |
+ | Network     | aws |
+ | Physical    | aws |
