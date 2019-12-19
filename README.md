@@ -312,7 +312,7 @@ Infrastructure as a code - control your infrastructure through software code
     - online software store that can run on AWS
     
 
-Shared Responsibility Model
+#### Shared Responsibility Model
 
  | layer | responsibility | 
  | --- | --- |
@@ -322,3 +322,17 @@ Shared Responsibility Model
  | Hypervisor  | aws |
  | Network     | aws |
  | Physical    | aws |
+ 
+ #### Identify and Access Management (IAM)
+ 
+ (Authentication)
+
+ User - operator (human or machine). permanent set of credentials
+
+ Group - Set of users
+
+ Role - operator (human or machine). credentials with a role are temporary
+
+(Authorization)
+
+Policy docs - JSON file. It attaches directly to a permanent name user or to a group of users or to a role
