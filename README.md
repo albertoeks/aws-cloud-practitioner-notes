@@ -325,14 +325,10 @@ Infrastructure as a code - control your infrastructure through software code
  
  #### Identify and Access Management (IAM)
  
- (Authentication)
-
- User - operator (human or machine). permanent set of credentials
-
- Group - Set of users
-
- Role - operator (human or machine). credentials with a role are temporary
-
-(Authorization)
-
-Policy docs - JSON file. It attaches directly to a permanent name user or to a group of users or to a role
+  - Authentication
+    - User - operator (human or machine). permanent set of credentials
+    - Group - Set of users
+    - Role - operator (human or machine). credentials with a role are temporary
+ 
+ - Authorization
+    - Policy docs - JSON file. It attaches directly to a permanent name user or to a group of users or to a role
