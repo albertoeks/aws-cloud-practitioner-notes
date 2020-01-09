@@ -332,3 +332,14 @@ Infrastructure as a code - control your infrastructure through software code
  
  - Authorization
     - Policy docs - JSON file. It attaches directly to a permanent name user or to a group of users or to a role
+
+#### Amazon Inspector
+
+ - Assesses applications for
+    - vulnerabilities
+    - deviations from best practices
+   
+ - Produces a detailed report with
+    - security findings
+    - prioritized step for remediation
+    
