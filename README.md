@@ -373,3 +373,8 @@ AWS Shield tiers
     - always-on monitoring
     - enhanced detection
     - DDoS cost protection
+    
+- benefits
+   - cost efficient
+   - seamless integration and deployment
+   - customizable protection
