@@ -350,4 +350,26 @@ Infrastructure as a code - control your infrastructure through software code
     - leverage aws security expertise
     - streamline security compliance
     - enforce security standards
-    
+
+#### AWS Shield
+Is a managed Distributed Denial of Service (DDoS) protection service that safeguards applications running on AWS
+
+DoS (Denial of Service) - a deliberate attempt to make your website or application unavailable to users
+
+DDoS (Destributed Denial of Service) - multiple sources are used to attack target, infrastructure and application layers can be affected
+
+AWS Shield tiers
+
+ - Standard - Automatic protections available for all AWS customers, at no additional charge
+    - automatic protection (any aws resource and region)
+    - quick detection (always-on)
+    - inline attack mitigation (built-in automated mitigation techniques and avoids latency impact)
+    - self service (no need to engage aws support)
+
+ - Advanced - Paid service for higher levels of protection, features, and benefits
+    - specialized support
+    - advanced attack mitigation
+    - visibility and attack notification
+    - always-on monitoring
+    - enhanced detection
+    - DDoS cost protection
