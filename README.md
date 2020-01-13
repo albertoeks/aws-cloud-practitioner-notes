@@ -342,4 +342,12 @@ Infrastructure as a code - control your infrastructure through software code
  - Produces a detailed report with
     - security findings
     - prioritized step for remediation
+
+- Benefits
+    - identify application security issues
+    - integrate security into devops
+    - increase development agility
+    - leverage aws security expertise
+    - streamline security compliance
+    - enforce security standards
     
