@@ -378,3 +378,25 @@ AWS Shield tiers
    - cost efficient
    - seamless integration and deployment
    - customizable protection
+
+#### Security Compliance
+
+aws compliance approach
+
+aws responsibility:
+provide highly-secure and controlled platform
+provide wide array of security features
+
+shared responsibility and control
+
+customer responsibility:
+configure IT
+
+aws shares security information by:
+- obtaining industry certifications
+- publishing security and control practices
+- compliance reports
+
+AWS security compliance programs help customers:
+- understand robust controls in place
+- establish and operate in an AWS security control environment
