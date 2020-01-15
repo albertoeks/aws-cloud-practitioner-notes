@@ -409,3 +409,15 @@ Charged for
  - transfer acceleration
  - storage
  - database
+
+Support plans
+ - basic
+ - developer
+ - business
+ - enterprise
+
+Pricing policies
+ - pay as you go
+ - pay less when you reserve
+ - pay less by using more
+ - pay less as AWS grows
