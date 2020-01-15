@@ -400,3 +400,12 @@ aws shares security information by:
 AWS security compliance programs help customers:
 - understand robust controls in place
 - establish and operate in an AWS security control environment
+
+#### Accounts and Billing
+
+Charged for
+ - compute
+ - data transfer out
+ - transfer acceleration
+ - storage
+ - database
