@@ -412,12 +412,16 @@ Charged for
 
 Support plans
  - basic
- - developer
- - business
- - enterprise
+ - developer (tech support via email during business hours)
+ - business (24/7 tech support via phone, <1 hour response)
+ - enterprise (TAM - Technical Account Manager, <15 minutes response)
 
 Pricing policies
  - pay as you go
  - pay less when you reserve
  - pay less by using more
  - pay less as AWS grows
+
+Pricing calculator
+ - Simple Monthly Calculator
+ - Total cost of Ownership
